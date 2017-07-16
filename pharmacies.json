@@ -1,0 +1,773 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7gAAALAlqhIaQ3VFjuJU7KcPmG93rFqlCWhpF9CRKRBOuJMvOCcjhUxiwlIQqlSrXKnz_Z-YimV3P63QIF1yCAAAbkaardzwiPU3sZF5WUmBRqBWJ3YIOk_0f7KZzlGnkcPJGgTO8AY5ULUFdDQeL7Q7uBH-V3UCxVMjEz5wxo_9cW2xwFBlPBdNhyHM-uK-Iej9oYo1_gwYQ-5-mvlrYvUjTphecGiVnE1nqJtIOjfgBaWiEVZwYIyI1iYN4KR_Zii2KhW0BvrsGlQCvdXWjS76u4p6e_ZhGdDvsxeknaBm8WPp1jW_3ErFccZV94qqq5dW5RIQLMGb2fQpM-QhOZuqPO4oeRoUf44Zcq0ZeN8nzKxLt21b3gjNzH0",
+   "results" : [
+      {
+         "formatted_address" : "3801 Independence Ave, Kansas City, MO 64124, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.105483,
+               "lng" : -94.53693939999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1070041302915,
+                  "lng" : -94.53558076970849
+               },
+               "southwest" : {
+                  "lat" : 39.1043061697085,
+                  "lng" : -94.53827873029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f31363525f04fb28c6e3b415ad4a888a0b5f355e",
+         "name" : "Spalitto's Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114331465128917104827/photos\"\u003eSpalitto&#39;s Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqctPQWzWjNypKMNsiKH-IkroLF4Kw-TZJhEGYCL4LkVoZ81bAChS3q5drh5MRkK885PxPxutsvUZXwF6bN1g7gtvMu8YYyx6H0OvnAMc-ei4xVv1Ak3qssGy-c-GhjtDEhD7BxNBF56sRD4wGABHDYJCGhQTSWAOB4acBoImjTJdF_iBAFEdtQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJGW501PX6wIcRLogb8BQ6VUk",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAhcm6Xu54onRlwm-eUnJV95K08HeNZwXVgRK6_VwZ8UE3UCOz-CBcoC_e0VrszQYo1S_de_1o3al3rUuXU7g3qvVxa47Cw3NOWVPN4P3LcE1UA0Tlk7n3cvR2pQ9KPlnGEhAG0R_J_sjWHmuObWv1BaqtGhRzYvehFuKdLCm77ReB1T8KE6lWqQ",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "4400 Broadway #106, Kansas City, MO 64111, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.04716,
+               "lng" : -94.59177099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0485182802915,
+                  "lng" : -94.59019401970849
+               },
+               "southwest" : {
+                  "lat" : 39.0458203197085,
+                  "lng" : -94.59289198029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "31dcaed83e60a7b31785cdd3b82669d6d1b7e60d",
+         "name" : "Albers Medical Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ5XUrQsbvwIcRVtEjwoETRyI",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAA_5A57YzynpTfezM3LVIlUbVTHDKfp0kNWFH-T2FOx6wMYeLu2qU2fSIQlA78fIJntjIIfCxcfDoFjOwM7dXKMb3Ro_CgADavdfQPaP46-QjpAX67dBL0eaXfc_BkbsTcEhDwWOpWZm9jrXEVT3jcnoFlGhS_sBAD8qwvC-PZ8o-PI6xnMdVKiw",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "8551 N Boardwalk Ave, Kansas City, MO 64154, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.250508,
+               "lng" : -94.65450799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2515603302915,
+                  "lng" : -94.65370674999998
+               },
+               "southwest" : {
+                  "lat" : 39.2488623697085,
+                  "lng" : -94.65691175000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "db8590c01d1ab09c90d11b794222206001f4a6ec",
+         "name" : "Walmart Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107836288109393358792/photos\"\u003eWalmart Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlSBkx3AokdNYx0OYN_os4w8onOnmV2dk0ZMJo9xa0NVQIUmlgg06f-_UiTMkm6V1nZyJkibEh7z_Bht68J_QeOD61gKpHj3RctUlPh0moH74tY8addx5wh6F0Qz2GQobEhBzayvnkRFKhpRpBteefbn2GhSykGgdsqe5rpCNYMf_NtTlplJpdQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJmw5OgzdfwIcRgscsxrqmngc",
+         "price_level" : 1,
+         "rating" : 2.3,
+         "reference" : "CmRRAAAAbYcdRKZqIC8oii5MFzsoSWhjleT3UakkIorIJNFEYReSuVA0g1voiG3vq1z77qr-I6FIBOZZaalFy8ONqXCAnyfEdh5LUyvSdfOK6yESSnuECIi6LUKpALl5E7hgyz7REhCAPR7xHCTXvaBFlx3BshhQGhQwJYoAm6Dg11cvRiwiN2KpH9WLZw",
+         "types" : [
+            "pharmacy",
+            "department_store",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "241 Linwood Blvd, Kansas City, MO 64111, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.06762210000001,
+               "lng" : -94.5805424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0692978302915,
+                  "lng" : -94.57917156970848
+               },
+               "southwest" : {
+                  "lat" : 39.0665998697085,
+                  "lng" : -94.5818695302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3965b35159d59c270478817b7e9ef64fa364c4aa",
+         "name" : "Costco Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJC0M5qB_wwIcR0zCgjGKFpnk",
+         "price_level" : 2,
+         "rating" : 2.3,
+         "reference" : "CmRRAAAAvEOU47ocJ9b9dxpvR7lLCyIH8JRv6cYNGTrENVThFbn4mWvychGp-Nv8sf4hl9pYX7ZD3twjoEUMi374k305wJ4parhKyx66m0QzRQyN67fe8ScYKvf7WxT_K6Iw0vhbEhC1LupDTkLBY_-Cv_oT9im_GhQ1dVGmRbu6u2EZOceUzJhVQ-BULg",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "8509 State Line Rd, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.97170310000001,
+               "lng" : -94.60718539999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.97305208029151,
+                  "lng" : -94.6058364197085
+               },
+               "southwest" : {
+                  "lat" : 38.97035411970851,
+                  "lng" : -94.6085343802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8c154c4280694fa977d3b7252fc0338561312508",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107127067156920399535/photos\"\u003eCVS Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAH7lzJ5HwtGou27r7L7D40j2RGB1gi9DGuL1rCyTlurOgrIyra1XIxPqKZJNV55tZxm8Q18FBHIW5bvYT-dk_APruxl3eCdbP-h8O9rHwC2QDfwFuZhXThsS7SIpBUu0UEhB4_PtO2HWOBmh2V5MIq71zGhSD7tQ9qhv3cHYDaddfsiR3n47FBA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJh4wORSnpwIcRh48bFgF1R8I",
+         "rating" : 5,
+         "reference" : "CmRSAAAA1khPAk3UBBQbE-CjCP4o002QuKx3rOeigvFS-0cUV_5Ps5GsSdagRth92C8Hgnu781Es-Vv-F8rLY8vHs76juNoFdT-Nvik9qF3UKGwpVvMoKqtGqbuwu9q5hkik_2jvEhBVpssAOWXINrU1wuhhi24TGhRHy36QPOf6HtP1GKYCbEx_lB_JJQ",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1000 Carondelet Dr # 120, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9358677,
+               "lng" : -94.604709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.93721668029149,
+                  "lng" : -94.60336001970849
+               },
+               "southwest" : {
+                  "lat" : 38.93451871970849,
+                  "lng" : -94.60605798029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a35b32e4f676abec0253ceef0a4963c5576b98f8",
+         "name" : "Carondelet Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJj9D8LlXowIcRpmTkXzgLBBM",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAFiveqsMz8tKx9TQpW1NNUWuBrDmzWZepbNfDLaowZACrAG4nPVydGklxfMEtokup3qCPCHDTkkNc4a0w7KYf9vV14FO1kbold2SeWREuaqIpGKqjxmfWfVgKOYN-rux7EhAVy5-HR_IgGo24GGUwo1CEGhTU0nAYGAzjAVMiYUJZWBYcQ9hSqw",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "9040 N Skyview Ave, Kansas City, MO 64154, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2575422,
+               "lng" : -94.6557638
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2588911802915,
+                  "lng" : -94.65441481970849
+               },
+               "southwest" : {
+                  "lat" : 39.2561932197085,
+                  "lng" : -94.6571127802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a38b4852f90c3dd6597c5039cb4163aa368af99c",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115833002005118100735/photos\"\u003eCVS Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXuumjdIDGxjn26hHyi8Bm0mK7m8A2TA7t22vZWPqbvlT-rs3_dlwRejjTTpg96yhFqKAzeiZOobRD7l6mIhyX7DcJI4PyaYRRbfBOkDzCarUPa84wEj_xNt5yk-Xz1kKEhDURlgxqQSVLFZ1jrb_6jbFGhRkW5k1C_oMDcBG3jxIeS_97TGMow",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJu5l5tzpfwIcRDLO3WH5bWZs",
+         "rating" : 5,
+         "reference" : "CmRSAAAAh_XimLXBYxjJc_zdf0tY89Gb30KVFtsmMIsipRcK1ifOfn6tx-zHBajDxvW4L8j5oDAsrUNGBvliEGqB-xqF72SCXIPK9qp_T7UGhRnU2NhpXe3baHWWTh1yMON7eiBWEhBQvnrSU024uR7SqTAf0fW-GhSOofmjBoZGMiLWTGaW9oyfhY_9ag",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "11601 E US Hwy 40, Kansas City, MO 64133, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.044854,
+               "lng" : -94.442639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0462029802915,
+                  "lng" : -94.4412900197085
+               },
+               "southwest" : {
+                  "lat" : 39.0435050197085,
+                  "lng" : -94.44398798029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a04adc00625a658ac1d49374b667e235d03081bb",
+         "name" : "Walmart Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108897661372051876472/photos\"\u003eWalmart Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-9u6Gqgtknr0gXFhFr02eAHH71mNytvTPlm9YVB_I_R9B2aEL7ATdP9rg1hno7CdMmM6ItXD_2MhtELNUrTEURl1jdd6U4nUx1Q4fnIz7nHMjEwkITiIgTXJtG5bZJG7EhDIRoOAhTyENifkwg3Z-1IEGhRZAWw4JgsnjLCmRpPPISIiONM7LA",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJw24tAx_jwIcRm6wWpiuFCt8",
+         "price_level" : 1,
+         "rating" : 2,
+         "reference" : "CmRSAAAARq8wmQFkvpTavOG2-T1kk6435BOTGDX3zQ4hhktTSWxBuoTLwOaEr6QPIDiAF2OuGU5uWx-g9ykYpg4n3ILDCZTzuuVCTwIY4ZRpQxBWT2KJH2uXz6m6GV1TlZZFjcqSEhDUn73OjCPHRDrc6wh5VVj-GhQrfG5_EnPRUY9p77tcMhpNanANIw",
+         "types" : [
+            "pharmacy",
+            "department_store",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "3901 Rainbow Blvd, Kansas City, KS 66160, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0561921,
+               "lng" : -94.6114044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0575427802915,
+                  "lng" : -94.61026896970849
+               },
+               "southwest" : {
+                  "lat" : 39.0548448197085,
+                  "lng" : -94.61296693029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "221e1c7a3a97f948222d713f59d490a98a51bb09",
+         "name" : "The University of Kansas Hospital Outpatient Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_eZr_S7uwIcR8LXKPSR6Q7Q",
+         "reference" : "CmRSAAAAMbd4nG8JA3vI024HEOa3URKWk1OQly-shZP29vJQoQ0UWlbxcaUzGr7hTv5B9HqUmK9F6jOr5beeHfEXKnCctv4-Q6mnTZqIceroZ5b2_sUMaceg-6tQ0-Ljut9OLUuqEhCRc9-mqdmYf96hxQ0ZCGhmGhTgx22Lf5AJmIhOMCrKMolwB1wuzA",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "11124 Holmes Rd, Kansas City, MO 64131, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.924715,
+               "lng" : -94.58412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.92604723029149,
+                  "lng" : -94.58242076970849
+               },
+               "southwest" : {
+                  "lat" : 38.9233492697085,
+                  "lng" : -94.5851187302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8cd2d52f5a69b9b410a3a2ca8531cc51d364ea7b",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113731705545384470738/photos\"\u003eCVS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACga-4a3_KpfBmZtHlxhl8Rl_b5bZeuGnUc0UhZS8krqqQw0lbkMkQI4oPTcBM0RfAj62msQVt2_uVOcIKGJtmG-B3P3jgWkoTgT2IMXOrANrI6h0BtUqMByLN1nG-AIOEhCm2dONjHCcWyVTsvjHpvaUGhQaagF9UfOXP1RdX1xDF8lPkk8NaQ",
+               "width" : 1067
+            }
+         ],
+         "place_id" : "ChIJIWzjDELowIcRYd_rePIh7WM",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAyWH77js2g1W7yoVJ864Z5O4m_rU3dXXSSfxJgDDKgggEA3CrS0vVfTnU0f5pYaQhofTamBe_8Us9soFB8pHpnOrcJDLvdk3fP7m4uU_Y2NbbSQ12nSuJmEXCEv7MJ49oEhCeFTMIFRZ8WY2Qe59BpgwUGhTezqGtsZW80NmBpXFRh7lEL79mlA",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1701 W 133rd St, Kansas City, MO 64145, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.885044,
+               "lng" : -94.60485299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8873378,
+                  "lng" : -94.60350991970849
+               },
+               "southwest" : {
+                  "lat" : 38.8842794,
+                  "lng" : -94.60620788029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "520e31767b9c7661f873984ffc20de944d72b4a2",
+         "name" : "Walmart Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113486248022360794714/photos\"\u003eWalmart Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFKoNrpp_g1gEnLVsOErWi1zR5Dj-cFzRBhKzt3n1ix7U22nOpktXWorxpAVpakjeZGUPZ47g1vnvP2rFNXWt_iz-gHBzc_Hd3akUYtK6E459p-QLVycYP_aMHqd0nyvPEhChsPlWnZH5sPlmq5EVIwzgGhS7RR6QnJDLyj8qN90dugRHeaM1QQ",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJR8ji6GLCwIcRi2H33F2mhjc",
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "CmRRAAAAdaTelZnOIq8YIs9hMsQsFZ3Hf7QIhUnFeWgJBUSYUZ6JOo1iXVRBcUrSF5ZPhLthj5KunMoldJFEAV2hdQK8rr_8bctnrmMuRkTzZup04Go3j-wNyuPOQICeXM1eQB0pEhCkSBFHd6X1yRrnQ9eqHEyvGhRfLrgyyKOaAINitG5N2T-zpZC0_g",
+         "types" : [
+            "pharmacy",
+            "department_store",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "5330 NW 64th St, Kansas City, MO 64151, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.21195609999999,
+               "lng" : -94.64178459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.21267809999998,
+                  "lng" : -94.64043041970849
+               },
+               "southwest" : {
+                  "lat" : 39.20979009999999,
+                  "lng" : -94.64312838029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ae14f9a6ce7ad182ed679458445b897622af4e23",
+         "name" : "Hy-Vee Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113014472574766245766/photos\"\u003eCharlie Goodrich\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALI6daHWbq8l17XKviWbGSEzFiDFoF0vbM0FYAprwczF1b-_o6tKyATttgLI7LLs1CapsDcrCplEirFrhE1tHKXaFt-8A3RtLycG5-CXGR--D2u9dSAZXggpQ24q2Y2jTEhAlGRxQI-6oT_V67WvosLqzGhS5b3dP_1gT_OsIeKJJ8LGmkai7mg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJL9WCoQv2wIcRrVxgEdtChNY",
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "CmRSAAAAe4t_XcnOruI9iDCbAmRkMeFylaccz6FmV5rBAcLE1QwCWHXwBEDBUJaf8GJUeuzCV9CovWABcSKAXiVZOpf9yP5eGC0yv9lLz9sTeuhPRbn7eQVuvbr2liXVRRrdc5XKEhCpwu8bkNRMV7Ngv-WTMcx_GhQsADF03-6w6Yi0Y8WtsfzGO6pB-w",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "8430 Wornall Rd, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9751084,
+               "lng" : -94.59614189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9764372802915,
+                  "lng" : -94.5942361197085
+               },
+               "southwest" : {
+                  "lat" : 38.9737393197085,
+                  "lng" : -94.5969340802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5618d242522888a333738cf9ba1e4f0f9056ab91",
+         "name" : "Price Chopper Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJFRSWeNHowIcRnzeiJpoVX7U",
+         "rating" : 5,
+         "reference" : "CmRSAAAAFH_dNevceEtTUDQtOSmyrwK-NxoOrJkgD6Sa4AnJEG1gGw1Ty_e9w0nM0YRyjlvPmcLzLJ9vKxVoXjPNoACiMJDCTjSy-QZ2M2YMSy1RBdOcoFGLAXuBtmh8sdRRV_JIEhBtBkSeuCiC0HM1JMtB1PJNGhSZNZs58-5-qOgBTFC-8zZKx8fiPg",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1030 W 103rd St, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9436454,
+               "lng" : -94.6058063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.94448135000001,
+                  "lng" : -94.60453336970849
+               },
+               "southwest" : {
+                  "lat" : 38.94113755,
+                  "lng" : -94.60723133029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2fc4e09840ddce5a4870de595085839d402298c6",
+         "name" : "Cosentino's Price Chopper Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116660958863568530564/photos\"\u003eSarah Pulliam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASuZQ3ruHZCkz29DfFWeUf7QvMNoFAQX7-CfOQlp5GVFQRTHSNo8ILxyX1Kir9EfRAiNJyXREsxarY9IXIpw4UWo9D3rkK7CLxuqQSDPvUlF0XIIIl07eVB4QOVTLtPaqEhBgBZ64BmgZWu4qpVlpTbOmGhQWLLoa2tGqaJikmL2IlmFy9_uz2A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ5ehyLv7owIcRFUxTiNI_xsY",
+         "rating" : 5,
+         "reference" : "CmRSAAAAQuyLWWzwFAtYSkJyzUEHsBaxYA-h1UGN1TQ6HcVCEC5iIkfVDH8Qh_Ul5eFidF71lf1WHQh3FT5Vq-s4KQ0zYo-LltSY4crzpE7_CxT6suC9791WZBvB1KehCoZWLRLAEhCEfibzQmHf_kdXYPxE_Z0sGhSOJyQVkUihlo3GJo2tKF9_W8EsPQ",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "207 NW Englewood Rd, Kansas City, MO 64118, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1944879,
+               "lng" : -94.5798661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.19583688029149,
+                  "lng" : -94.57851711970849
+               },
+               "southwest" : {
+                  "lat" : 39.1931389197085,
+                  "lng" : -94.5812150802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d7d006b85174013fb8e56709e10af99e74e6094c",
+         "name" : "Hy-Vee Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI13vFaL3wIcRVJoVmfFmOUo",
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "CmRRAAAAdm0ISmwb-tjHXScqftXg7TFJLz0LByUvx0D4EebX_BjlxUT_HzxVG8WI20kJ04D7-LTchU_JSpdSq957tfBU6VbBCn7blYmqB0pHaWqMENDwDU6a9kavTRo58rQe_K2rEhA1BDIsJDc59TaZU8ZRGkpLGhRQmk5ynjPWKqzXkE1XbN7JsifqYA",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "819 N 7th St, Kansas City, KS 66101, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1144114,
+               "lng" : -94.626634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1157602302915,
+                  "lng" : -94.6253689697085
+               },
+               "southwest" : {
+                  "lat" : 39.11306226970851,
+                  "lng" : -94.62806693029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ab888f4baa6262a7a5327530cbbb1fd660392f11",
+         "name" : "Abrams' Pharmacy Inc",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 799,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109508287940268488715/photos\"\u003ePam Davis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlw_vQ_3zaymtZXg31SrujYVtTQy0uUExkN1Leen0hq910qUnfeodgpvdWY95T8nWgFYCVPxR_9tmyBCE1CLJ3N2dvVorFvIlVPhpWvdbaCgUgN3mWb5lkNxEG0AjbhkzEhCOxOk_NK3_C9ErxMSnUfbSGhQWjEKx0z8swTBNd_a2lXqNE8ufVA",
+               "width" : 431
+            }
+         ],
+         "place_id" : "ChIJOXunhnLxwIcR2_tNWxav0CA",
+         "rating" : 5,
+         "reference" : "CmRRAAAARnUa1YQ3ITCHrClcW0a5yy2GxE6zgnSq2JWS4dItUweWu3qk3xe1kZ561pUofxRuQlxCyDb90jjF5p28ACisYwgtIc-rJffE4yRTqXZyi_F6hdsQJ_95Y_A5LHOWMUEUEhDpIzN1CNDa3OTgiDo9XlG8GhTdp1zGbwi72DzKvdeA9CQ7YF-Nhw",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "9220 NE barry Rd, Kansas City, MO 64157, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.24789369999999,
+               "lng" : -94.4635093
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.24924268029149,
+                  "lng" : -94.4621603197085
+               },
+               "southwest" : {
+                  "lat" : 39.2465447197085,
+                  "lng" : -94.46485828029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b3aa0a1ea729192bed5b88afbc61cdb4db55ff1e",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108338187390033690543/photos\"\u003eCVS Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVqNigykIOyRi4btLOJrNT1sG2bi97Ql9dqeBZxNVr4jFv_0M9OPDk7pcJPhW5wtkroiSK8g7b_5UXFFiALVto68Cjs0WhS6eHTGA99PAbKPfWmLGqZ00NtUnQeuRwF_oEhBKFSLDkCIpMd4wx2Q8a3mCGhRim27v5aVdXsBV8XJRzok3q9ADMg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJW0Ezw-1VwIcRb1Mp5ifNAro",
+         "rating" : 5,
+         "reference" : "CmRSAAAAy0y1pMNllwwHxZ4snvfjPDih4BiyMk25L8vC5KaYZscFAwSu1fC5GHEhqEfGyOrHN1gCDBowB02mnuFhlU_vx0qC0YVw__TFOYKOXSnH1qxcLF4MA0_27pc_f5839ss8EhCtaQaeg8Q6LQCgG3ODf5CpGhRo9Y6y4DpGF63BPwtAhQYkdY6neA",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5110 N Oak Trafficway, Kansas City, MO 64118, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1866467,
+               "lng" : -94.5792867
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.18799568029149,
+                  "lng" : -94.57793771970849
+               },
+               "southwest" : {
+                  "lat" : 39.1852977197085,
+                  "lng" : -94.58063568029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7dec711e76c9a18642c3b58da782d62335513b38",
+         "name" : "Sam's Club Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106967724031777245007/photos\"\u003eSam&#39;s Club Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeJAg1zvO4K4ocO2IuF8if3o1RnPmOXZWQWupOg43mTC2gl-3eDyGLPC8q5OxMkRB56hGaNLpb6puktq4AY1rqGPQlkhGAD9Lpv3UqM_6QR1NJwKw8XknMZ2e2zxB_XqNEhCQNaBzCNfCvbDPvkrGd155GhRujLMlgsYmfgVQwhj5f1tOXR2CLw",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJRbrTSnT3wIcRtzXdE2hhyb8",
+         "price_level" : 1,
+         "rating" : 5,
+         "reference" : "CmRSAAAAqK64qKiiaE4DRWzXUtSSbKedRIXpaEoNSj9sXx5RRn8B7D8G5Noe-uwovinm_ByqXWUs-di0Ffb45f-ztU_SUjlXfL9_gGYRG-kA2JrMDbI1J50Q4uPatDtkdQCeNU9SEhD5kG_uJ1Jsu8sYpEgUCkuIGhRVbC0WxI0BTgRERCLgH2dmApMdyQ",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "6238 N Chatham Ave, Kansas City, MO 64151, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.208969,
+               "lng" : -94.64431599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2100432802915,
+                  "lng" : -94.64254431970849
+               },
+               "southwest" : {
+                  "lat" : 39.2073453197085,
+                  "lng" : -94.6452422802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "38b97f6a388e689941c16708740f95066587e4fa",
+         "name" : "Hen House Pharmacy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102303790660631858219/photos\"\u003eHen House Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANi-C4I3ImMhZb_FqtywGcm8tGOn6ssAFWhzJCY2kiWbZyjkniIiOJicOi8ydGdvlqaHy6nJZ2w5yiTfbaNlICUv8uz1Ub9mt9bstg3ePHDsVNNbhYSsXbALq49UYSF-hEhC_pdeePVCdx-7ULwMKoydIGhTkee81pohJ2KXfNsAFoypDIghIHg",
+               "width" : 344
+            }
+         ],
+         "place_id" : "ChIJD_k3nAr2wIcRmmk30N99uiQ",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAYYcU1gdeR7V83kr_vq2HS1Jnp7K1CifMIk1YO-itWqSSf5sdK6O8b_9lgwDJJVrYPKT9h1I95inyGboDR2mDKYULoWL-XG-qXmYPqoY8BZptSBlzvNc4MJdIYwN9f9rTEhAIS7gHDqPfxzHD8cbasQuNGhRRwwoSEWKyhBEovEvH6M0769nwwA",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1201 W 136th St, Kansas City, MO 64145, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8795937,
+               "lng" : -94.6065555
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8809426802915,
+                  "lng" : -94.60520651970849
+               },
+               "southwest" : {
+                  "lat" : 38.8782447197085,
+                  "lng" : -94.60790448029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "064dae4eb080b5fe8645cc3cfb45e60c6a9c8c26",
+         "name" : "CVS Pharmacy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110233910148257626792/photos\"\u003eCVS Pharmacy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2mb10GEJEGYv7kvBUbUK9JxCr_dusEhPVL11MPVzf5l29jrWDSRSwYlX_27la-YAc0dw65YhtiR6I0-S5OjEbiwTY-FYtaT8OoeynGSFWZ4GerHfLR3Mzh0LApHZK3gNEhDBi54ZH4TAn4orOp0VzzzBGhRVfkfCUhJbk1kPmhCqwiZkJzHKkw",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJuyso1mPCwIcRRjVLo1tKCkk",
+         "reference" : "CmRRAAAAMNNPSeIXUmxkq28Y2rb7oi-FuFtjfTI1MXAUZiQnPHSd1Uy2eMB3l1DlTACKoRJ3rDVgMdPXLgAletLqCtq2D3zjelQrnvOhHA5tcD51GukM-TZYyz1Sv0EOIdD1x5T4EhACRfWl1j8B8lP3WgeAhagGGhST8M5rmivdLEQSWWjG9aOQyTZELw",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

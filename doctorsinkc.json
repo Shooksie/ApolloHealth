@@ -1,0 +1,682 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CvQB7AAAAEO_Xyu5nTf7wGs9wKCmgcf3sun2y1hIghXxHhF2umludcw0D5UOAEsZaXWGZMmlBDhJfp3HbZJntKHH9BDtNeo0NQViF66hjKWxXAbPUrN19hLf2o68CvUteIrUKP3kzcejq3VCUtAJNea_Wh6qEKTlQ2KHnf93tflNl9reWp743LPT8SJgkiVrgz_mIIY_xND3G-uWganSt-P2V6_SUAi_i3JfvfuOgahxap5pZYRlCWlP9lRdMJlhH57s36kRb17UxUOH0UUFpXszOnj4P2qpS2P_DjFIUygW7shc0GMFZEvEXrkr-OSdTYUWe0d0oxIQnNAflmzxpHAYqSgXkeJIcxoUZ7WXCtAG-za5NAM4eO6cR7sbNlc",
+   "results" : [
+      {
+         "formatted_address" : "903 E 104th St #500, Kansas City, MO 64131, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9380067,
+               "lng" : -94.5810628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9399698302915,
+                  "lng" : -94.58016336970849
+               },
+               "southwest" : {
+                  "lat" : 38.9372718697085,
+                  "lng" : -94.58286133029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "678466632fb792fd1ca8ce3222fe0e27027f6877",
+         "name" : "HCA Midwest Physicians",
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117471493172121603456/photos\"\u003eHCA Midwest Physicians\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtBJvn3N32NbmpHiVEfAOedQXa1ex_PEnnrvulUNlq387PZLIa9C6hS2udlbohO3IVQkUjw2QV27ZQTUYx8zgYGXLLt9WxLn7Xhq489m3nM1A-ql4VWDco1-9vIUCf8lwEhBfNPzQOYpfdGdNLjAETq9gGhSWzMUNNk8-pJuYhOtW564PjiFd-Q",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJjawUT2DowIcRpB3SVMMKmeU",
+         "reference" : "CmRSAAAAeL6oGwKbujBli_DANb1jD42S0Kb5_dqTmRf31d5kvgvr0uG4NP1x1HJ-3oq5ftVOw9AUIx6HamILTur0L1T3gESribpJ2GRg5vdEXdYhPCYpm4SX6RVRoPk4SJrQRCNBEhAw9-wikIEruDIWZHcFKwDaGhTqViSewW3mWEBiKaSwCchMneWNyg",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "6675 Holmes Rd #550, Kansas City, MO 64131, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0064874,
+               "lng" : -94.577989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.00784588029151,
+                  "lng" : -94.57721330000001
+               },
+               "southwest" : {
+                  "lat" : 39.00514791970851,
+                  "lng" : -94.58031609999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "90cb4786596771ccb1c1b6edb0f7d9c5a7c9082e",
+         "name" : "Medical Group of Kansas City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105149657259097244430/photos\"\u003eMedical Group of Kansas City\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-wq1m6QV_F3eTf-fsh5dvpkqKMGJC3bRonoEez0RDATIbtuqfCZTthY2GiHuO-tKea86uD0qgtHjmvANEMF0l4A9S8W3WyNG-Ys8hp78gz_lPI36EurvtSgG1CJG00UmEhBLAYq7W-x5U8s29hldZCmwGhT3R2ewKFPmm5cLCkpeutazAqebZw",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJk-yZtmvvwIcRcGzMcvfWXzc",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAVGaxRruzZimSlz-porGrjHuixbdhAp1Flpx5C7bp62-1D0ciFb-LqxMm20qjyhMLl0H_k_RQrZy3S1A0cUjQ5XXosNkUapncJoBYdvtTZlQzC0aAc4wQxdrLUjpC7ICJEhB5lx_twwBvjRA5pvbaXct7GhQiA2CZ5jYmWeGqpcg6NfKcgo6hkw",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3406 Broadway, Kansas City, MO 64111, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0662657,
+               "lng" : -94.59064629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0676068302915,
+                  "lng" : -94.5890801697085
+               },
+               "southwest" : {
+                  "lat" : 39.0649088697085,
+                  "lng" : -94.5917781302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "94f9332a0b542a5735476386bd3bae6f0be9ac14",
+         "name" : "Midtown Family Medicine, Gary A. Thompson, MD",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ8QbJp7jvwIcRGKRTDMr0Jgs",
+         "rating" : 5,
+         "reference" : "CmRRAAAAGj4RWX2MsmL4SoGEEjlX8wQjnKGRcmrBtsCzKMQdos7xNuFB442rv1ax3b09OCaD1Ic1xUhoGkpxB9gPebhQkyXxtvSw3K6RAELLUvB-NLcZHJGIu02smaGQ5yGcC2-lEhCkNUrU6ND9EFKiW5Cv7kuEGhR8EtopUTnfPE5_8nPZ5Qq11yP5uA",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "9401 N Oak Trafficway #200, Kansas City, MO 64155, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.264681,
+               "lng" : -94.57524400000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2660281802915,
+                  "lng" : -94.5740946697085
+               },
+               "southwest" : {
+                  "lat" : 39.2633302197085,
+                  "lng" : -94.57679263029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "89e22694e7e6fcbac2db1a229bec9a75e4b829b9",
+         "name" : "Discover Vision Centers in North Kansas City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ-9PS-DBYwIcRaBx1cZuKObo",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAA18BjT90kz7oBHP_AKEinTnH5b204dtUPMjL-dxhrGwgeDf00PJRu-0AX8Nmbvbxz97H_DcEdYxOwCFOJpnzEuA64OJT7jUT1d_MGIiPF02O_TaPgjMqxUOvrGM4R7qi1EhDzpX0ygIHS5rmbzzkvV473GhRa2KAfDgRjNqwRjgf-bD8FZc08yg",
+         "types" : [ "doctor", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "6420 Prospect Ave #102, Kansas City, MO 64131, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0099747,
+               "lng" : -94.5562985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0113243302915,
+                  "lng" : -94.5549716197085
+               },
+               "southwest" : {
+                  "lat" : 39.00862636970851,
+                  "lng" : -94.5576695802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5493e3b2c3dd16e7a0d58ba380fe6c419741694a",
+         "name" : "Medical Group of Kansas City at Research Medical Center Main Campus",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ86kp247lwIcRVHJ5-iwXY40",
+         "reference" : "CmRSAAAAGvdwDdjdGqkZk72EaCgePZG704a0FfEBZwCK7TgKMDxde-2j1vfEz9-b3gq-X-YKUKoXjTCuE0rCQkZ_BuJbysb7nRlp_Q1K1uZ5yr9X2Y-ghzhHpMPponkJfH-b6f5nEhBf8aKbVvmDXA2jbJSMjJVvGhT4E6FGZX5055c8FQ2PpdatI4v0WA",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5330 N Oak Trafficway Suite 102, Kansas City, MO 64118, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1912489,
+               "lng" : -94.5769832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1925961802915,
+                  "lng" : -94.57541851970849
+               },
+               "southwest" : {
+                  "lat" : 39.1898982197085,
+                  "lng" : -94.5781164802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "480dac0274144b7fc5c2601aee763f936d71c524",
+         "name" : "Consultants in Gastroenterology, P.C.",
+         "place_id" : "ChIJmXfpv533wIcRhPibVNt-Qt0",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAFiSO_FLuY9sVhhHG9eiXF6fMvp-gmg5mTNpeJysr4o0BtNz9_w3CA186LZB1MPIJXYmP5DEqacVIXwnsFu48cusRvPDemQfgK_SXj6nZcu0GdZ7nctBPQxp-bm-St3AmEhDvsBg-RwCr-yywz6uVqvLcGhQz1VPaU_TQ3UpxDV7i5pjwTB6Kdg",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "6675 Holmes Rd #360, Kansas City, MO 64131, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.00707130000001,
+               "lng" : -94.5778717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.00846483029149,
+                  "lng" : -94.5769427697085
+               },
+               "southwest" : {
+                  "lat" : 39.00576686970849,
+                  "lng" : -94.5796407302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a92c5ef91d207af3ccbc6d9246cf4f95aa876d80",
+         "name" : "Goppert-Trinity Family Care",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1978,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116332967182123293599/photos\"\u003eMatt Weber\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAwVAxB15i0EdaE0UBOoXE_jYR8WDkwYCO4wWU4H5TqW_lsHKiEWynV3HuuVT4ux90YmZnTneZXKTrRSPMhcGBvGYJmNZN5YkzbcNyNRNB9frcDpzIX_uDCY_1YHTr69EGEhBGhIiiEr7Fkw3HB-4o89SOGhTQ0O79jhi58RfCvYgmBnIim-bLfg",
+               "width" : 4956
+            }
+         ],
+         "place_id" : "ChIJyUInJ2nvwIcR0r2KprElP2I",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAAK_i-1CSPNTt1-q9Vaji7ECFJOp-3V0Q97F9_H9wZBnf1H5AVxjnnuhk4NhEdkBP6JGOqdoFc2xBDT7LVyxaJaybtdiq4V9ZJ8Smhdz_-2oR2WB9YPVVpe4gLyNo-OEbZEhCowrJTTajc9smOjds0QKfRGhTMxX4kQvNeHaTlNM1aov8E5Ft0Gw",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1004 Carondelet Dr #300a, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.935677,
+               "lng" : -94.60159589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9370163802915,
+                  "lng" : -94.6001903697085
+               },
+               "southwest" : {
+                  "lat" : 38.9343184197085,
+                  "lng" : -94.60288833029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4f050e425b8df00559730d555eb1872c81095c9e",
+         "name" : "Erickson Neal A MD",
+         "place_id" : "ChIJfVGp8FTowIcR0aMx988Y6Cw",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAlMYIm9kSZ4mdB0r9toEtlqZyuv2_bE1cjGLxJ7PV9ODTZ8znjEo7qovk4Umx3qcm_2VIRvij21-t9zjhCVGA5b2sikvxE8WcglTFM9Y6VAuOJDKdBvMLFSNy0uxyQbMGEhCbDPjxYaeCnjI-B40ZaXbnGhTcdTw5_KZ8-NnR2WAoStIEbqUXNg",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5330 N Oak Trafficway #203, Kansas City, MO 64118, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1912957,
+               "lng" : -94.5770261
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.19264278029149,
+                  "lng" : -94.5754396697085
+               },
+               "southwest" : {
+                  "lat" : 39.18994481970849,
+                  "lng" : -94.57813763029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7ae1c914e4a410878ddc1907009810e863f7df03",
+         "name" : "Midwest Women's Healthcare Specialists - Kansas City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109757905469234489770/photos\"\u003eMidwest Women&#39;s Healthcare Specialists - Kansas City\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiMW64zEZdKtwkD9GNNmGMgApv6IMAiWeoW6shJke0ebFCN31gSDvJXCUoQ0ZXa07JedIRnqu73DgYVATIfulgRvUcxNBeIVd-TMQqXmRY88z73XaxyFC8XhX-6uq9CbREhD9qn99EySnCc6Se08UdfZfGhQie3RofiQcoWi4Buhva7gbexy_zA",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJVXrJ0Pf5wIcRbAQfHdVWOKM",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAxu6jzYYkYPFbL8uaB7zRJcgq4uEatRP4MNoOrczF1TV6OBEpiuboWayRBdgnATf3F7gGdMaprcGzr9t5Ng7Qzm_Ylh0oE-Z1PoYmaPxLGOs2F1Tcm6iZzxE6DI4wJpqqEhDQ4pnac2bpdC_Hqg3Ygs23GhQFX7DDbFJ3vD47OIGmaDgbnl4dXw",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "7130 Wornall Rd, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9987149,
+               "lng" : -94.594257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0000578302915,
+                  "lng" : -94.59272331970848
+               },
+               "southwest" : {
+                  "lat" : 38.9973598697085,
+                  "lng" : -94.5954212802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d355424d89e166d225403ad575ace19a210c713c",
+         "name" : "Brookside Family Medical Group",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106057743306505050557/photos\"\u003eBrookside Family Medical Group\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAix5D0MJqhMidL8wU3ThZp_5z12WgcT8fd1CVLYIGAwAsIiAjr0qa3F8b1N4yBxhPObi8AIPcaU_gSIbp-Vc69pAS-I08Fr0fsgUTx0l_FMw16qudGYiy-yP2jiY1jxA8EhCWG_EltsWWEHsfz4q6dOzDGhSHPSqbhuFjGQh4kGTFIO94lFV40A",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJfX3LJCPvwIcROg-QiGFZfHY",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAA5M0ej9Wl83UZaZqrJT29FBHz8mXT_6LiC0lNXwFejQ6VfTR_DxkSic9qwOkUVSHuEfK3N4Yc_yWJN5Z8It-bK69NPcknbj9NYsUhr1Xyf24WXpdvIAi86zdVpRB5YVwIEhCpCohhvHiaAjOUED8vOyZfGhQjgvQ8Vq7vGp8YVnzNmbf1iy1pNA",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1010 Carondelet Dr, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.93594099999999,
+               "lng" : -94.604822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9369902802915,
+                  "lng" : -94.59993349999999
+               },
+               "southwest" : {
+                  "lat" : 38.9342923197085,
+                  "lng" : -94.60645149999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8e3473b237fcb607b54bf9bdd8daf1f9d1baf0aa",
+         "name" : "Kansas City Foot and Ankle",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116049612565089418404/photos\"\u003eKansas City Foot and Ankle\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAB1_p4gi527k0itkkliSQf5Rv1Q7w--6qmKXwI6TeqBtADuSzxXzPpCGIsmQaPTB2oEu-QzfLV6RWrgbVvZHtMrspgTxkKsUTcMbrddrVnmFU52yfIh1iouZswG-TTjlUEhC35Au8ycw440Mw3LQdzfblGhTu0Lg5AkYR7rgt85fUwfq1jF8btw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLVNyIavpwIcRRdaYkTMgES0",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAavLGwQjUVLe3lm2oaEQaodxtUK1OvkH1oA0d5FshBEb80SRxTdQvfvk9osnTrRlyeaVhboA0U-rXPF14gZ-eShTgZXjXt0zKvd95uVtzJkhS-qEsuM7sSg1AscXZd3UMEhCGKut0RKI7WJr3Nt0tDa2UGhRe6NuFlGhF_TQE50rviVU6qQkhzQ",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5861 NW 72nd St, Kansas City, MO 64151, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2239919,
+               "lng" : -94.64844359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2258855802915,
+                  "lng" : -94.64709206970849
+               },
+               "southwest" : {
+                  "lat" : 39.2231876197085,
+                  "lng" : -94.6497900302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ad7d2899717dcb68efa39f7287400332ce4f1ea4",
+         "name" : "Primary Care North",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJTarL-_71wIcRxjUFuO6J_2g",
+         "rating" : 3,
+         "reference" : "CmRRAAAAr_qwlfwCTTvBxIo3DM_w9AM_7oEseeeSCltrdlkaE0tn7KQHQllm_Zh6kMRrDhUimvEAy18fW2EHHAQ0GkMCLKh3Zeex1d4xsHEhWlecPYGIm9Cg_gYl69chc3XKGxBHEhDOaRksC_-E25VFyz-AGUWbGhQMjKIa14JA-YcDru2FDLPH5rmpgg",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3515 Broadway, Kansas City, MO 64111, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0633194,
+               "lng" : -94.5899304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0646782302915,
+                  "lng" : -94.5888065197085
+               },
+               "southwest" : {
+                  "lat" : 39.0619802697085,
+                  "lng" : -94.5915044802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31f59603bfff808d8e286f0ffba4af9fe68b9867",
+         "name" : "Kansas City CARE Clinic",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101490072858179565492/photos\"\u003eKansas City CARE Clinic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgvZl0MFnZWJNqNgA0F_fCmsP68Z9aWDwI4WTnUXuDDLY5t9Q-E3cU-xZHCWhJ81q2JZOOv9zQmBVd6ZC0FQwaRTZy0vkr0u-mVtUISi3L74ZvlC77G5wgJR2d2yO2eUpEhBDIMVV-65CTnAs2KH0NMkXGhTgHm4vySiT8KOM1zxQONKKEbF-6A",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJz4iCltjvwIcR3VGHemusltk",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAM3J_8PDob8PYtSOiMw3vyCll6rO5tcxeEaOD-v7UeceaYYd56nJZoYImf-Xjl8ndrKNbhTONXlzJlxh-rSSSS4Ak7dbBH4W6888LgDSB7M8X9HhszSZLRa6ljbOajmsIEhDUVpYoq9IqPJ9wKIMFXeZgGhR0eROEe-rDLI00pnjRZ-uiMJQ6ZA",
+         "types" : [ "dentist", "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2330 E Meyer Blvd #509, Kansas City, MO 64132, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0086632,
+               "lng" : -94.55802229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.00937059999999,
+                  "lng" : -94.55657211970851
+               },
+               "southwest" : {
+                  "lat" : 39.00654100000001,
+                  "lng" : -94.55927008029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9f77c7abaeb355ee8e28db44aead9beb6c1cae60",
+         "name" : "Midwest Heart and Vascular Specialists - Kansas City",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104208941507178804741/photos\"\u003eMidwest Heart and Vascular Specialists - Kansas City\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAk1gEwOoFudmtaAGofbnSWr4xm3FrFa_UPnuySR0hMdmXnY5MKlzdJL86uD6qzuIxtXRhrS86ozi3hwqV9Gf4EHXkuKUg1L8lGvlpRwH5rTLzCLp-43aYkkg8eZR9YMULEhBBDKJ47zi5g6mTcBLUXO9_GhSi9AXsmwK1ORo9ZHQHyjkfcZbZkA",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJEUTuJo_lwIcRc0qBxlv0zjM",
+         "reference" : "CmRRAAAADYc2j9D4riYCn1Mj-pqTUnIRq5gqFB1IZalTsG3PRSMvYuE0EHoxDV0YBHVsHQg_VTFnE3jAf_wYRCgiAfWNjQ_q83L2FWIOGAf-sIch3T7RCrmtn21CEmQatysI6TJNEhBZwu4MBKfcohvjwO_h3LKyGhQhtMYVKoDLcJq_cCEC10wbDdYWCw",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2340 E Meyer Blvd, Kansas City, MO 64132, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0089514,
+               "lng" : -94.55791049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0097964,
+                  "lng" : -94.55644061970848
+               },
+               "southwest" : {
+                  "lat" : 39.0064164,
+                  "lng" : -94.5591385802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dba94c6ce478f4e53472ae237751241e5e4cbe2c",
+         "name" : "Encompass Medical Group - Midtown Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJp-aQw47lwIcRRypYVizkf-U",
+         "reference" : "CmRSAAAAed9aej31LjhMX0O7nQ4bXEFgQOXVYOOW88vNQa8HOLFcP2gONxBaToiz5-RqBOZ5PpbLDq04vLN_bhyJPzXPmDNAxx1moq-aF1SnpS4GRujbTI5cP6CVsnRN1OhWXEBsEhDi0OEXYm7P7PafgspY8WkTGhR-mcuu1NjrHIVlPujXavXH-AoSAQ",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5151 Troost Ave #200, Kansas City, MO 64110, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0332361,
+               "lng" : -94.57307519999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0345894302915,
+                  "lng" : -94.57191326970849
+               },
+               "southwest" : {
+                  "lat" : 39.0318914697085,
+                  "lng" : -94.57461123029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd871be3260fb643ffbb5553c675362203dbd61c",
+         "name" : "Neighorhood Walk-in and Family Care",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104438217850584477215/photos\"\u003eNeighorhood Walk-in and Family Care\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxB0xwLAqkd7oTj5dQxtpVaHDJFWBOjzTO4QULLkJZp4UVPwFh0NWqxoETZ7seW6N39ce3idYwyAuR82wy4OtPCcssjIwXoAIgnqYoDDKAIM3klvk_A0UwkcDO3DQKm9EEhCqMJEjOghv-37rcGCySlwoGhRmSqDEgcfcpUVM0pGtHQJ_XuXeMA",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJrZydqJrvwIcRsmkyFFP8Gv4",
+         "rating" : 5,
+         "reference" : "CmRSAAAAbAFdN4X_kWaAlOzvMAaAdu8rXxqjc27RhE2NBm_w5QZ2VWz27ZsNioGEcnz88UgVFk-YD1uphGScwI6OFhBZjTgXwQrvQX2N0Om7mP-46gOIYKq2oCan4nCf0n2ieR2zEhDfiNDrl9AHbZHNAK0WaI2OGhTboUVoh5ZS9yzsyba3G-B-ZQOlLw",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1004 Carondelet Dr, Kansas City, MO 64114, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9355437,
+               "lng" : -94.6040488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.93689268029149,
+                  "lng" : -94.60269981970849
+               },
+               "southwest" : {
+                  "lat" : 38.9341947197085,
+                  "lng" : -94.60539778029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cdc0cfbf89744b01f915cd5afed2de3653d17716",
+         "name" : "ENT Associates of Greater Kansas City, PC",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 293,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109224497985771958208/photos\"\u003eENT Associates of Greater Kansas City, PC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA70v3UFlKJ6TqjylRJAVJAFjbK4ZnqDjOVuwGxtOS9tjge_ZsjG5dF0Vpeofcxf3zc9Mo8UEhPRsiPgRZLANNPay5qJ6uzcmgmL-9mOZnKO5AzWJTnMzgt3d49Sjg1yJyEhAqnjPwNsj_hyVDcfdcAH99GhSsKSulysH334mk5P8uUTGVCG2b_A",
+               "width" : 293
+            }
+         ],
+         "place_id" : "ChIJfVGp8FTowIcRm-NTe6dPiqU",
+         "rating" : 3,
+         "reference" : "CmRSAAAAlbXY8HXbR5w9novPqh_5VLwVKAWkwfjgazRcQJvrA1T3hmF0vUzfV9ObiHtHqXIs9L773JqSuyEGwsyd4N01VpRCb4Zor92_tD30luTBHUo7zDRvydt1unOlwHLsZlBwEhDsFJmgqJfV3ZzXWueruwiZGhQ1caKMGRj4UpLhulxCzRhV_8qCXA",
+         "types" : [ "doctor", "health", "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "8880 NE 82nd Terrace, Kansas City, MO 64158, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.243818,
+               "lng" : -94.4717735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2448050302915,
+                  "lng" : -94.4705937197085
+               },
+               "southwest" : {
+                  "lat" : 39.2421070697085,
+                  "lng" : -94.47329168029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f602731cfccb7de855d399e2da46778e7dd1d5f6",
+         "name" : "Mosaic Life Care at Shoal Creek",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9SMhGftVwIcRoVFi47rJ0vs",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAA7MlPB0xK34sfBFly3iqrnTjC3HhP5x3FXqarw_hwa52WJL6RG9Hol7dwSxSaZ0ORPwiVFHnGsXt47i1-to-Nk6jc_ux3BxpQbMADEgpIiIpBGZ4m9LRZ_jwkXh8KkBdgEhAoH1Qz4gY9Ry6OFzvmc2gDGhSHxOvX1fk8eLTHYh5bdGo19OurtQ",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2750 Clay Edwards Dr Ste. 604, North Kansas City, MO 64116, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.15088650000001,
+               "lng" : -94.5525136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1521119302915,
+                  "lng" : -94.55099816970849
+               },
+               "southwest" : {
+                  "lat" : 39.1494139697085,
+                  "lng" : -94.5536961302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cd4110479d7c5a59410996d685468c3513237f56",
+         "name" : "Midwest Reproductive Center, PA",
+         "place_id" : "ChIJ6VtBL_j5wIcRUWqmI-073e8",
+         "rating" : 3,
+         "reference" : "CmRSAAAA1ehk_DF1T-F471tvhvKcISvWtRt5r2Crt85cq4nc43BqyzqVFIw24I0VcvhBt5dIrTyd55NT0IcrlfphPRa6VNNcb-klaOtmY-Y4Lr58FNEppmnG-C1o3-CO9_FzY2swEhCCIWmyHnHpEtqKgzzstbBlGhTSzoxEBw1qkDQpwxeDYRxdcsaSrw",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "5400 N Oak Trafficway # 200, Kansas City, MO 64118, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1925653,
+               "lng" : -94.57708439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1939101302915,
+                  "lng" : -94.57545876970849
+               },
+               "southwest" : {
+                  "lat" : 39.1912121697085,
+                  "lng" : -94.57815673029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1f03bdc60181d47134de318270b570bfa8df215e",
+         "name" : "Briarcliff Medical Association: Stanley John O MD",
+         "place_id" : "ChIJ5_xILpz3wIcRfsltj581OHc",
+         "reference" : "CmRRAAAAiZCnshspLEBzI2RVQbVN3YHDFz1FoGlXFlcyTG38vpybhY4PaJlR3WtXLkE1aZUOxdZUgF6-EcFFVD6W3gn_l54Q2Y24NCvKPlU9NJz4x7Esm8rXOvL0G0U0LnO91uoYEhDIOb1NXuPxfd4GDk_yiKlYGhR7g2b9Rjr1RmiNjVGm0P1ruzu4nw",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
